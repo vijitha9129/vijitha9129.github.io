@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### ML Projects
 
-[Project 1 Title](/sample_page)
+[Last Mile Delivery](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
