@@ -23,8 +23,8 @@
 **Tech Stack**: Python – Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn, AWS Sagemaker, EC2
 <p/>
 
----
-[Customer segmentation for E-commerce company](/pdf/sample_presentation.pdf)
+
+[Customer segmentation for E-commerce company](/sample_page)
 <p> Segment the Customers based on Recency, Frequency, and Monetary parameters so that the company can target its customers efficiently. Analyzed the Customers based on 3 factors: Recency, Monetary and Frequency.   <br> </br>
 **Algortihms used**: K-Means Clustering and Hierarchical Clustering  with 3 Cluster Ids
 Customers with Cluster Id 1 are the customers with a high amount of transactions as compared to other customers.
@@ -33,25 +33,5 @@ Customers with Cluster Id 2 are not recent buyers and hence the least of importa
 **Tech Stack**: Python – Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn
 <p/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
 
 
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
