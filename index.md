@@ -4,6 +4,17 @@
 
 ### ML Projects
 
+[Generating Synthetic Images using GAN Architecture](/sample_page)
+<p> Designed and implemented a GAN architecture that can generate synthetic images of human faces
+**Algorthims used**:  
+        BasicGAN architecture that ran for 300 epochs with the training size of 4125 images. 
+        <img src="images/BasicGAN.png?raw=true"/>
+        StleGAN Atchitecture that ran for 3000 epochs with training size of just 12 imges.
+        <img src="images/styleGAN.png?raw=true"/>
+**Tech Stack**: TensorFLow, Keras, Python, Google Colab (GPU and TPU for processing)
+<p/>
+
+
 [Last Mile Delivery](/sample_page)
 <p> Analysis for a postal company which delivers its packages everyday. There are certain vehicle sizes assigned to each of its routes and the end goal is to optimize the vehicle utilization and eventually reduce the carbon foorprint of the delivery service. So we had to determine the vehicles that are over utilized or underutilized and re-assign the routes for optimal usage. For example, if the cubic volume of the package size is 100 cubic feet then a vehicle which is close to this capacity has to be chosen and a bigger vehicle might be a wrong choice as it will be over utilized. Bigger vehicle means extra usage of fuel and hence carbon foot print is increased.  
 **Algorthims used**:  
