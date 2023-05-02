@@ -6,7 +6,7 @@
 
 [Generating Synthetic Images using GAN Architecture](/sample_page)
 <p> Designed and implemented a GAN architecture that can generate synthetic images of human faces
-**Algorthims used**:  
+**Algorthims used**:  <br> </br> 
         BasicGAN architecture that ran for 300 epochs with the training size of 4125 images. 
         <img src="images/BasicGAN.png?raw=true"/> <br> </br>
         StleGAN Atchitecture that ran for 3000 epochs with training size of just 12 imges.
